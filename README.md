@@ -40,8 +40,10 @@ txt file.
 ## How to Run
 1.Clone the repository:
 `git clone https://github.com/ananyaaaweb/oss-audit--24BCE10924-`
+
 2.Give execution permissions:
 `chmod +x *.
 sh`
+
 3.Run a script:
 `./system_identity.sh`
